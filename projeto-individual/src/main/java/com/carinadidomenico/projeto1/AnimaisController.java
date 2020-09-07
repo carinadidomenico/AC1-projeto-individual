@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @RestController
-@RequestMapping("/animais");
+@RequestMapping("/animais")
 
 public class AnimaisController {
 
